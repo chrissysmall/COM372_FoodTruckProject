@@ -1,0 +1,196 @@
+body {
+  font: 16px "Zapf Chancery"
+}
+
+h4 {
+  color: maroon
+}
+
+h1 {
+  color: maroon;
+
+}
+
+figure {
+  float: right;
+
+}
+
+link {
+  color: maroon;
+
+}
+
+#story {
+  float: left;
+  width: 45%;
+}
+
+#cal {
+  width: 45%;
+  margin: 1em;
+  padding: 1em;
+  float: right;
+  list-style: none;
+
+
+}
+
+#photo {
+  margin: 5px;
+  float: left;
+  width: 48%;
+
+
+}
+
+#mainphoto {
+
+
+}
+
+#list1 {
+  list-style: none;
+  border: 5px solid maroon;
+  padding: 10px
+
+}
+
+#list1 li {
+  display:inline-block;
+  border: 2px dashed black;
+  padding: 10px;
+  margin: 10px;
+  width: 28.5%;
+  align-self: center;
+
+}
+
+#menu1 {
+  display: inline-block;
+  padding: 50px;
+  width: 93.5%;
+  background-image: url(Images/hummus.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin-left: -10px;
+  margin-right: -5px;
+
+}
+
+#menu2 {
+padding: 50px;
+  background-image: url(Images/white_beans.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 93.5%;
+  margin-left: -10px;
+  margin-right: -5px;
+
+}
+
+#menu3 {
+  background-image: url(Images/BlackEyedPeas.JPG);
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 93.5%;
+  padding: 50px;
+  margin-left: -10px;
+  margin-right: -5px;
+
+}
+
+#menu4 {
+  background-image: url(Images/Dried_red_lentil.JPG);
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 93.5%;
+  padding: 50px;
+  margin-left: -10px;
+  margin-right: -5px;
+
+}
+
+#menu5 {
+
+  background-image: url(Images/Dal.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 93.5%;
+  padding: 50px;
+  margin-left: -10px;
+  margin-right: -5px;
+
+}
+
+#menu6 {
+
+  background-image: url(Images/falafel.jpg);
+  background-repeat: no-repeat;
+  background-position: left;
+  background-size: cover;
+  width: 93.5%;
+  padding: 50px;
+  margin-left: -10px;
+  margin-right: -5px;
+
+
+}
+
+#menu7 {
+
+  background-image: url(Images/whitebeancake.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 93.5%;
+  padding: 50px;
+  margin-left: -10px;
+  margin-right: -5px;
+
+}
+
+#menu8 {
+  background-image: url(Images/black_beans.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 93.5%;
+  padding: 50px;
+  margin-left: -10px;
+  margin-right: -5px;
+
+}
+
+#menu9 {
+  background-image: url(Images/Red_Beans_and_Rice.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 93.5%;
+  padding: 50px;
+  margin-left: -10px;
+  margin-right: -5px;
+
+}
+
+#menu10 {
+
+  background-image: url(Images/Farinata.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 93.5%;
+  padding: 50px;
+  margin-left: -10px;
+  margin-right: -5px;
+}
+
+.menu p {
+  font-size: 30px;
+  font-weight: bolder;
+}
+
+.menu h4 {
+  font-size: 50px;
+}
+
+.background {
+  opacity: 0.8;
+}
